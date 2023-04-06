@@ -1,13 +1,14 @@
 # MyPomoApp
 
-MyPomoApp is a simple Pomodoro timer application that helps you manage your time more effectively and boost your productivity.
+MyPomoApp is a simple Pomodoro timer application developed in Python using PyQt5 and Matplotlib libraries.
+
+The Pomodoro technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
 ## Features
 
-- Set custom Pomodoro and break durations
-- Option to auto-start the next timer
-- Pause, resume, and reset the timer
-- View statistics of your Pomodoro sessions using interactive graphs
+- Set custom Pomodoro and break times
+- Option to automatically start the next timer after a break
+- View your Pomodoro stats using graphs for the last 7 days, weekly or monthly
 
 ## Technologies Used
 
@@ -19,20 +20,35 @@ MyPomoApp is a simple Pomodoro timer application that helps you manage your time
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/karimelhou/MyPomoApp.git`
-2. Install the dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
+1. Clone the repository using `git clone https://github.com/karimelhou/MyPomoApp.git`
+2. Install the required packages using `pip install -r requirements.txt`
+3. Run the application using `python main.py`
 
 ## Usage
 
-1. Set the Pomodoro and break durations in the menu dialog.
-2. Click the "Start" button to start the timer.
-3. The timer will count down the remaining time, and the progress bar will update accordingly.
-4. When the timer reaches 0, a sound will play, and the application will notify you.
-5. If the "Auto-start next timer" option is checked, the break timer will automatically start.
-6. You can pause, resume, or reset the timer at any time using the buttons.
-7. To view statistics of your Pomodoro sessions, click the "View Stats" button in the menu dialog. You can select the range of data to display using the dropdown menu.
+1. Set your desired Pomodoro and break times in the settings menu.
+2. Click on the start button to start the timer.
+3. Work for the duration of the Pomodoro.
+4. When the Pomodoro ends, take a short break.
+5. The timer will automatically start the next Pomodoro or break, based on your settings.
+6. View your Pomodoro stats using the "View Stats" button in the settings menu.
+
+## Stats
+
+You can view your Pomodoro stats by clicking on the "View Stats" button in the settings menu. The application provides the following graph options:
+
+- Last 7 days: A graph showing your daily Pomodoro count for the last 7 days.
+- Weekly: A graph showing your weekly Pomodoro count.
+- Monthly: A graph showing your monthly Pomodoro count.
+
+The graphs are plotted using Matplotlib library and displayed in a QDialog. The stats data is loaded from a JSON file located in the repository.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgements
+
+- The Pomodoro technique: https://francescocirillo.com/pages/pomodoro-technique
+- PyQt5 library: https://pypi.org/project/PyQt5/
+- Matplotlib library: https://matplotlib.org/

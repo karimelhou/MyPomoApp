@@ -45,7 +45,7 @@ The graphs are plotted using Matplotlib library and displayed in a QDialog. The 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the CC-BY-4.0 License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 

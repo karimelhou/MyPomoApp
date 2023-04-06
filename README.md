@@ -56,7 +56,7 @@ This project is licensed under the CC-BY-4.0 License. See the `LICENSE` file for
 
 ## Results 
 
-These are some example screenshots of the application's graphs:
+These are some example screenshots of the application:
 
 ![image](https://user-images.githubusercontent.com/47016104/230431353-237e9f6e-9818-4caf-992b-18d0a0232ce4.png)
 

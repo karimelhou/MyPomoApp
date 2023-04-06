@@ -56,9 +56,13 @@ This project is licensed under the CC-BY-4.0 License. See the `LICENSE` file for
 
 ## Results 
 
-![image](https://user-images.githubusercontent.com/47016104/230431353-237e9f6e-9818-4caf-992b-18d0a0232ce4.png)
-![image](https://user-images.githubusercontent.com/47016104/230431476-f40857a1-cc38-4432-baa1-c17fad358139.png)
-![image](https://user-images.githubusercontent.com/47016104/230431655-38be5966-406e-4b59-82af-bbf5e9c8b731.png)
-![image](https://user-images.githubusercontent.com/47016104/230431729-750a4d2c-1330-419e-b06f-e03f884920fc.png)
+These are some example screenshots of the application's graphs:
 
+![image](https://user-images.githubusercontent.com/47016104/230431353-237e9f6e-9818-4caf-992b-18d0a0232ce4.png)
+
+![image](https://user-images.githubusercontent.com/47016104/230431476-f40857a1-cc38-4432-baa1-c17fad358139.png)
+
+![image](https://user-images.githubusercontent.com/47016104/230431655-38be5966-406e-4b59-82af-bbf5e9c8b731.png)
+
+![image](https://user-images.githubusercontent.com/47016104/230431729-750a4d2c-1330-419e-b06f-e03f884920fc.png)
 

@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+matplotlib==3.7.1
+pandas==1.5.2
+

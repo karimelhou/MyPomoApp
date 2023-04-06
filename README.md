@@ -43,6 +43,14 @@ You can view your Pomodoro stats by clicking on the "View Stats" button in the s
 
 The graphs are plotted using Matplotlib library and displayed in a QDialog. The stats data is loaded from a JSON file located in the repository.
 
+## Results 
+
+![image](https://user-images.githubusercontent.com/47016104/230431353-237e9f6e-9818-4caf-992b-18d0a0232ce4.png)
+![image](https://user-images.githubusercontent.com/47016104/230431476-f40857a1-cc38-4432-baa1-c17fad358139.png)
+![image](https://user-images.githubusercontent.com/47016104/230431655-38be5966-406e-4b59-82af-bbf5e9c8b731.png)
+![image](https://user-images.githubusercontent.com/47016104/230431729-750a4d2c-1330-419e-b06f-e03f884920fc.png)
+
+
 ## License
 
 This project is licensed under the CC-BY-4.0 License. See the `LICENSE` file for details.

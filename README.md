@@ -64,5 +64,6 @@ These are some example screenshots of the application:
 
 ![image](https://user-images.githubusercontent.com/47016104/230431655-38be5966-406e-4b59-82af-bbf5e9c8b731.png)
 
-![image](https://user-images.githubusercontent.com/47016104/230431729-750a4d2c-1330-419e-b06f-e03f884920fc.png)
+![image](https://user-images.githubusercontent.com/47016104/230432577-db010fd5-8688-468f-b3e2-bc23f9ff03a1.png)
+
 
